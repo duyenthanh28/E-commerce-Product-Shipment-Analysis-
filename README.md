@@ -16,9 +16,9 @@ All the above shipping methods come at different costs and it depends on various
 like distance, item dimensions, weight, destination accessibility etc.
 
 This project targets to use supervised learning  to predict the outcome based on the various input
-parameters available to us. The Outcome variable for this data set is - Reached on time - where 1 Indicates that the product has
+parameters available to us. The Outcome variable for this data set is  "Reached on time" - where 1 Indicates that the product has
 NOT reached on time and 0 indicates it has reached on time.
-The outcome variable ‘Reached On Time’ is a classification variable and hence I will 
+The outcome variable "Reached On Time" is a classification variable and hence I will 
 use the LogisticRegression() Algorithm in Python. I will also be doing predictor reduction
 methodologies to see what set of variables gets us higher confusion matrix accuracy.
 I will then also be exploring Unsupervised learning like Cluster Analysis to identify the
